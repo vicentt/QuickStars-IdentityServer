@@ -9,7 +9,7 @@ namespace Client
     class Program
     {
         //static void Main(string[] args) => roMainAsync().GetAwaiter().GetResult();
-        static void Main(string[] args) => Mainsync().GetAwaiter().GetResult();
+        static void Main(string[] args) => Mai nAsync().GetAwaiter().GetResult();
 
         private static async Task MainAsync()
         {
